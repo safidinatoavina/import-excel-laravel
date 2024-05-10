@@ -7,8 +7,8 @@ This Laravel project facilitates the import of products from an Excel file into 
 Clone the repository to your local machine, navigate into the project directory, and follow these steps:
 
 ```bash
-git clone https://github.com/your/repository.git
-cd project-directory
+git clone https://github.com/safidinatoavina/import-excel-laravel.git
+cd import-excel-laravel
 composer install
 cp .env.example .env
 php artisan key:generate
